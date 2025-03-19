@@ -8,9 +8,14 @@
     "start": "node main.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "kubeconfig",
+    "kube-config",
+    "merge",
+    "kubectl"
+  ],
   "author": "geka-evk",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "yaml": "2.7.0"
   }

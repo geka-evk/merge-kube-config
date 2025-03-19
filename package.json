@@ -1,0 +1,17 @@
+{
+  "name": "merge-kube-config",
+  "description": "Script to merge multiple kubeconfig files into one",
+  "version": "1.0.0",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "geka-evk",
+  "license": "ISC",
+  "dependencies": {
+    "yaml": "2.7.0"
+  }
+}
